@@ -3,4 +3,4 @@
   Bio-inspired digital immunity.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
   Insight precedes impact.
 
-  -> https://hradeky.ch/
+  -> [https://hradeky.ch/](https://hradeky.ch/)
