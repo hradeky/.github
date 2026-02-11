@@ -1,6 +1,4 @@
-# HRADEKY                                                                                                                                                                                                                                                                                                                     
-  
-  Bio-inspired digital immunity.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
-  Insight precedes impact.
+# HRADEKY™                                                                                                                                                                                                                                                                                                                   
+Insight precedes impact™
 
   -> [https://hradeky.ch/](https://hradeky.ch/)
